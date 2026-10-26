@@ -1,0 +1,14 @@
+# Keep your local API key configuration out of Git
+js/config.js
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
